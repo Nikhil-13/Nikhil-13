@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 - 🔭 I’m currently working on how to center a div.
 - 🌱 I’m currently learning ReactJS
@@ -7,4 +5,4 @@
 - 💬 Ask me about anything but coding tips
 - 📫 How to reach me: nnik270@gmail.com
 - 😄 Pronouns: Swole eyes
-- ⚡ Fun fact: America is Great.
+- ⚡ Fun fact: Elon Musk is a Moron.
