@@ -5,4 +5,4 @@
 - 💬 Ask me about anything but coding tips
 - 📫 How to reach me: nnik270@gmail.com
 - 😄 Pronouns: Swole eyes
-- ⚡ Fun fact: Elon Musk is a Moron.
+- ⚡ Fun fact: Sometimes grapes really tastes sour.
