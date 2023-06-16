@@ -1,8 +1,6 @@
-
-- 🔭 I’m currently working on how to center a div.
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on minimal scale projects.
-- 💬 Ask me about anything but coding tips
-- 📫 How to reach me: nnik270@gmail.com
+- 👋 Hi, this is Nikhil here.
+- 👨‍🎓 A Computer Applications graduate and a self-taught developer.
+- 💻 Currently learning ReactJS.
+- 👔 Looking for a workplace to learn best practices.
+- 📧 How to reach me: nnik270@gmail.com
 - 😄 Pronouns: Swole eyes
-- ⚡ Fun fact: Sometimes grapes really tastes sour.
