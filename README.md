@@ -1,6 +1,7 @@
-- 👋 Hi, this is Nikhil here.
-- 👨‍🎓 A Computer Applications graduate and a self-taught developer.
+- 👋 Hi, Nikhil here.
+- 👨‍🎓 A Computer Applications graduate and a self-taught Web Developer.
 - 💻 Currently learning ReactJS.
+- 🤝 Open to contributing to Open Source community.
 - 👔 Looking for a workplace to learn best practices.
 - 📧 How to reach me: nnik270@gmail.com
 - 😄 Pronouns: He/Him
