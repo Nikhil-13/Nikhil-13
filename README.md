@@ -3,4 +3,4 @@
 - 💻 Currently learning ReactJS.
 - 👔 Looking for a workplace to learn best practices.
 - 📧 How to reach me: nnik270@gmail.com
-- 😄 Pronouns: Swole eyes
+- 😄 Pronouns: He/Him
