@@ -4,4 +4,3 @@
 - 🤝 Open to contributing to Open Source community.
 - 👔 Looking for a workplace to learn best practices.
 - 📧 How to reach me: nnik270@gmail.com
-- 😄 Pronouns: He/Him
