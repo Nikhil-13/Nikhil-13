@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **nnik270@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/nikhi_1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhi_1312" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-kumar-51294b11b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-kumar-51294b11b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13827711/nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13827711/nikhil" height="30" width="40" /></a>
@@ -58,9 +58,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-13&show_icons=true&theme=synthwave&locale=en" alt="nikhil-13" /></p>
+<div align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-13&show_icons=true&theme=synthwave&locale=en" alt="nikhil-13" />
+  &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-13&theme=dark" alt="nikhil-13" /></div>
+  <br>
+<div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-13&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="nikhil-13" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-13&theme=dark" alt="nikhil-13" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-13&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="nikhil-13" /></p>
 
