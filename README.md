@@ -8,9 +8,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikhi_1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhi_1312" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/nikhil-kumar-51294b11b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nikhil-kumar-51294b11b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13827711/nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13827711/nikhil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/nikhil__13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nikhil__13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-kumar-51294b11b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nikhil-kumar-51294b11b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13827711/nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13827711/nikhil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhil__13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nikhil__13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
